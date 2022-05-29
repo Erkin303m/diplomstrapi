@@ -1,0 +1,70 @@
+{
+  "kind": "collectionType",
+  "collectionName": "kiyims",
+  "info": {
+    "singularName": "kiyim",
+    "pluralName": "kiyims",
+    "displayName": "kiyim",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "password": {
+      "type": "biginteger"
+    },
+    "giga": {
+      "type": "string"
+    },
+    "maosh": {
+      "type": "biginteger"
+    },
+    "kelmaga": {
+      "type": "string"
+    },
+    "tala": {
+      "type": "string"
+    },
+    "bio": {
+      "type": "string"
+    },
+    "fio": {
+      "type": "string"
+    },
+    "telegram": {
+      "type": "string"
+    },
+    "hujjat": {
+      "type": "string"
+    },
+    "soliq": {
+      "type": "string"
+    },
+    "ishjoy": {
+      "type": "string"
+    },
+    "username": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "ism": {
+      "type": "string"
+    },
+    "familiya": {
+      "type": "string"
+    },
+    "manzil": {
+      "type": "string"
+    },
+    "bio2": {
+      "type": "string"
+    },
+    "login": {
+      "type": "string"
+    }
+  }
+}
